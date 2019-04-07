@@ -4,3 +4,7 @@ This is pretty interesting
 And these commands are added in local repo 
 
 Changes in Branch -- New Features 
+
+// -- THESE CHANGES ARE IN MY FORKED FILE ..
+//-----NEW FEATURES AND BETTER WAY OF DOING"
+
